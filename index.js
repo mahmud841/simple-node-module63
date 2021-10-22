@@ -19,14 +19,14 @@ app.get('/', (req, res) => {
 
 
 const users = [
- { id:1, name:'Mahmud Khan',email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:2, name:'Sezan  Khan',email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:3, name:'Sohag Khan', email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:4, name:'Siyam Khan', email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:5, name:'Jubair Khan',email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:6, name:'Foysal Khan',email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:7, name:'Fuad Khan', email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
- { id:8, name:'Nazrul Khan',email:'mahmudkhann123@gmail.com', Phone: "01788888888"},
+ { id:0, name:'Mahmud Khan',email:'mahmudkhann123@gmail.com', phone: '0178888888'},
+ { id:1, name:'Sezan  Khan',email:'sezankhann123@gmail.com', phone:  '0178888888'},
+ { id:2, name:'Sohag Khan', email:'sohagkhann123@gmail.com', phone:  '017888888'},
+ { id:3, name:'Siyam Khan', email:'siyamkhann123@gmail.com', phone:  '017888888854'},
+ { id:4, name:'Jubair Khan',email:'jubairkhann123@gmail.com', phone: '0178888887'},
+ { id:5, name:'Foysal Khan',email:'foysalkhann123@gmail.com', phone: '0178888885'},
+ { id:6, name:'Fuad Khan', email:'fuadkhann123@gmail.com', phone:    '0178888884'},
+ { id:7, name:'Nazrul Khan',email:'nazrulkhann123@gmail.com', phone: '1788888853'},
 ]
 
 
